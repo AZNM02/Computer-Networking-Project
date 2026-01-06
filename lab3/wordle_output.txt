@@ -1,0 +1,18 @@
+Proxy listening on port 1234
+>>> CONNECT www.nytimes.com:443
+>>> CONNECT static01.nyt.com:443
+>>> CONNECT purr.nytimes.com:443
+>>> CONNECT als-svc.nytimes.com:443
+>>> CONNECT www.googletagmanager.com:443
+>>> CONNECT samizdat-graphql.nytimes.com:443
+>>> CONNECT samizdat-graphql.nytimes.com:443
+>>> CONNECT a.et.nytimes.com:443
+>>> CONNECT eg.nytimes.com:443
+>>> CONNECT a.et.nytimes.com:443
+>>> CONNECT securepubads.g.doubleclick.net:443
+>>> CONNECT a.nytimes.com:443
+>>> CONNECT platform.iteratehq.com:443
+>>> CONNECT iteratehq.com:443
+>>> CONNECT a1.nyt.com:443
+>>> CONNECT static.chartbeat.com:443
+>>> CONNECT sync-1-us-west1-g.sync.services.mozilla.com:443

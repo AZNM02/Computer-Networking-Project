@@ -1,0 +1,17 @@
+Proxy listening on port 1234
+>>> CONNECT www.cnn.com:443
+>>> CONNECT media.cnn.com:443
+>>> CONNECT fave.api.cnn.io:443
+>>> CONNECT healthguides.cnn.com:443
+>>> CONNECT registry.api.cnn.io:443
+>>> CONNECT experience.piano.io:443
+>>> CONNECT c2.piano.io:443
+>>> CONNECT default.any-any.prd.api.bolt.cnn.com:443
+>>> CONNECT services.brightline.tv:443
+>>> CONNECT sync-1-us-west1-g.sync.services.mozilla.com:443
+>>> CONNECT fly.live.cnn.us.prd.media.max.com:443
+>>> CONNECT fly.live.cnn.us.prd.media.max.com:443
+>>> CONNECT fly.live.cnn.us.prd.media.max.com:443
+>>> CONNECT fly.live.cnn.us.prd.media.max.com:443
+>>> CONNECT busy.any-any.prd.api.discomax.com:443
+>>> CONNECT busy.any-amer.prd.api.bolt.cnn.com:443

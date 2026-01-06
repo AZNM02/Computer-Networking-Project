@@ -1,0 +1,22 @@
+Proxy listening on port 1234
+>>> CONNECT sync-1-us-west1-g.sync.services.mozilla.com:443
+>>> CONNECT homes.cs.washington.edu:443
+>>> CONNECT fonts.googleapis.com:443
+>>> CONNECT homes.cs.washington.edu:443
+>>> CONNECT homes.cs.washington.edu:443
+>>> CONNECT homes.cs.washington.edu:443
+>>> CONNECT homes.cs.washington.edu:443
+>>> CONNECT homes.cs.washington.edu:443
+>>> CONNECT www.youtube.com:443
+>>> CONNECT fonts.gstatic.com:443
+>>> CONNECT yt3.ggpht.com:443
+>>> CONNECT rr3---sn-nx57ynsk.googlevideo.com:443
+>>> CONNECT rr5---sn-nx57ynsk.googlevideo.com:443
+>>> CONNECT rr1---sn-nx57ynsk.googlevideo.com:443
+>>> CONNECT rr1---sn-nx57ynze.googlevideo.com:443
+>>> CONNECT jnn-pa.googleapis.com:443
+>>> CONNECT rr2---sn-nx57ynsk.googlevideo.com:443
+>>> CONNECT rr2---sn-nx57ynsk.googlevideo.com:443
+>>> CONNECT rr5---sn-nx57ynz7.googlevideo.com:443
+>>> CONNECT i.ytimg.com:443
+>>> CONNECT rr1---sn-nx57ynsk.googlevideo.com:443

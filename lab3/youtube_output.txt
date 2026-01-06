@@ -1,0 +1,19 @@
+Proxy listening on port 1234
+>>> CONNECT youtu.be:443
+>>> CONNECT www.youtube.com:443
+>>> CONNECT i.ytimg.com:443
+>>> CONNECT rr1---sn-nx57ynsk.googlevideo.com:443
+>>> CONNECT rr1---sn-nx57ynsk.googlevideo.com:443
+>>> CONNECT rr5---sn-nx57ynss.googlevideo.com:443
+>>> CONNECT rr4---sn-q4fl6n66.googlevideo.com:443
+>>> CONNECT rr4---sn-q4fl6n66.googlevideo.com:443
+>>> CONNECT www.gstatic.com:443
+>>> CONNECT rr4---sn-q4fl6n66.googlevideo.com:443
+>>> CONNECT rr4---sn-q4fl6n66.googlevideo.com:443
+>>> CONNECT rr4---sn-q4fl6n66.googlevideo.com:443
+>>> CONNECT rr4---sn-q4fl6n66.googlevideo.com:443
+>>> CONNECT yt3.ggpht.com:443
+>>> CONNECT www.gstatic.com:443
+>>> CONNECT sync-1-us-west1-g.sync.services.mozilla.com:443
+>>> CONNECT fonts.googleapis.com:443
+>>> CONNECT accounts.youtube.com:443

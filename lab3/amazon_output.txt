@@ -1,0 +1,12 @@
+Proxy listening on port 1234
+>>> CONNECT sync-1-us-west1-g.sync.services.mozilla.com:443
+>>> CONNECT www.amazon.com:443
+>>> CONNECT m.media-amazon.com:443
+>>> CONNECT images-na.ssl-images-amazon.com:443
+>>> CONNECT images-na.ssl-images-amazon.com:443
+>>> CONNECT api.stores.us-east-1.prod.paets.advertising.amazon.dev:443
+>>> CONNECT images-na.ssl-images-amazon.com:443
+>>> CONNECT images-na.ssl-images-amazon.com:443
+>>> CONNECT images-na.ssl-images-amazon.com:443
+>>> CONNECT fls-na.amazon.com:443
+>>> CONNECT completion.amazon.com:443

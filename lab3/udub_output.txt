@@ -1,0 +1,18 @@
+Proxy listening on port 1234
+>>> CONNECT push.services.mozilla.com:443
+>>> CONNECT push.services.mozilla.com:443
+>>> CONNECT reddit.com:443
+>>> CONNECT www.reddit.com:443
+>>> CONNECT sync-1-us-west1-g.sync.services.mozilla.com:443
+>>> CONNECT www.redditstatic.com:443
+>>> CONNECT www.redditstatic.com:443
+>>> CONNECT styles.redditmedia.com:443
+>>> CONNECT external-preview.redd.it:443
+>>> CONNECT accounts.google.com:443
+>>> CONNECT gql-realtime.reddit.com:443
+>>> CONNECT www.google.com:443
+>>> CONNECT gql-realtime.reddit.com:443
+>>> CONNECT matrix.redditspace.com:443
+>>> CONNECT preview.redd.it:443
+>>> CONNECT i.redd.it:443
+>>> CONNECT gql-realtime.reddit.com:443

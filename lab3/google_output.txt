@@ -1,0 +1,13 @@
+Proxy listening on port 1234
+>>> CONNECT sync-1-us-west1-g.sync.services.mozilla.com:443
+>>> CONNECT api.accounts.firefox.com:443
+>>> CONNECT www.google.com:443
+>>> CONNECT lh3.googleusercontent.com:443
+>>> CONNECT www.gstatic.com:443
+>>> CONNECT ogads-pa.clients6.google.com:443
+>>> CONNECT waa-pa.clients6.google.com:443
+>>> CONNECT ogads-pa.clients6.google.com:443
+>>> CONNECT waa-pa.clients6.google.com:443
+>>> CONNECT accounts.google.com:443
+>>> CONNECT ogs.google.com:443
+>>> CONNECT ssl.gstatic.com:443
